@@ -6,8 +6,6 @@ Glaucoma is one of the leading causes of irreversible blindness worldwide. Early
 
 This project implements and compares multiple deep learning models for automated glaucoma detection using retinal fundus images. We evaluate baseline CNN models and advanced transfer learning architectures to determine the most effective approach.
 
----
-
 ## Objectives
 
 - Develop a baseline CNN model for glaucoma classification  
@@ -15,3 +13,5 @@ This project implements and compares multiple deep learning models for automated
 - Propose an improved fine-tuned model  
 - Compare model performance using standard evaluation metrics  
 - Perform detailed result analysis and visualization  
+
+---
